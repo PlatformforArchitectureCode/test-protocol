@@ -1,0 +1,24 @@
+{
+    //this is all just filler info
+
+    "name": "Area-taker-offer",
+    "description": "Uses geometry pipeline to create squarefootage tags for plan drawings",
+    "version": "0.0.1",
+    "author": {
+        "name": "James Quick <j.n.quick@gmail.com>",
+        "email": "j.n.quick@gmail.com"
+    },
+    "contributors": [
+        { "name": "Troy Conrad Therrien", "email": "<troyth@gmail.com>" }
+    ],
+    "plug-ins required": {
+        "flounderCam" : "v 1.0.15"
+    },
+    "xxxx": {
+        "xxx": "xxxxxxxx"
+    }
+
+    //What are the important pieces of metadata? Do the Screenshots need to be called out here?
+
+
+}
