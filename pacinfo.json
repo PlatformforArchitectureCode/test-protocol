@@ -17,6 +17,7 @@
 		{ "name": "Python Interpreter", "version" : "0.6.0.3" },
 		{ "name": "Kangaroo Components", "version" : "0.094" }
     ],
+	"_thumbnail": "thumbnail.png",
     "xxxx": {
         "xxx": "xxxxxxxx"
     },
