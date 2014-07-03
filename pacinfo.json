@@ -1,6 +1,4 @@
 {
-    //this is all just filler info
-
     "name": "Area-taker-offer",
     "description": "Uses geometry pipeline to create squarefootage tags for plan drawings",
     "version": "0.0.1",
@@ -17,8 +15,7 @@
     "xxxx": {
         "xxx": "xxxxxxxx"
     }
-
-    //What are the important pieces of metadata? Do the Screenshots need to be called out here?
+    "COMMENTS": "What are the important pieces of metadata? Do the Screenshots need to be called out here?"
 
 
 }
